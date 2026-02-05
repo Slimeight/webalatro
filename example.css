@@ -67,8 +67,8 @@
 	--dyn-ui-blind : #fda200;
 	--dyn-ui-blind-dark :rgb(200, 127, 0);
 
-	--deck-url : url(img/cards.png);
-	--back-url : url(img/BaltroBacks.png);
+	--deck-url : url(https://cdn.jsdelivr.net/gh/Slimeight/webalatro/img/cards.png);
+	--back-url : url(https://cdn.jsdelivr.net/gh/Slimeight/webalatro/img/BaltroBacks.png);
 
 	--border-radius : 8px;
 	--font : "Balatro";
