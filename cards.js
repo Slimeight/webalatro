@@ -11,7 +11,7 @@ var cards = (function() {
 		table: 'body',
 		cardback: 'red',
 		acesHigh: true,
-		cardsUrl: 'img/BalatroCards_Free.png',
+		cardsUrl: 'https://cdn.jsdelivr.net/gh/Slimeight/webalatro/img/BalatroCards_Free.png',
 		blackJoker: false,
 		redJoker: false,
 		type: STANDARD,
